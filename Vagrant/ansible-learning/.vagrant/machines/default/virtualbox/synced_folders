@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/home/clara/Vagrant/ansible-learning/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/clara/Vagrant/ansible-learning","disabled":false,"__vagrantfile":true}}}
