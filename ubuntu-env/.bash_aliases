@@ -1,3 +1,1 @@
-#!/bin/bash
-
 alias copyz="xclip -selection clipboard"
