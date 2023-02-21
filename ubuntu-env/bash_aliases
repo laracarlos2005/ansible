@@ -1,1 +1,5 @@
 alias copyz="xclip -selection clipboard"
+
+
+alias gam="/home/c.lara/bin/gamadv-xtd3/gam"
+
