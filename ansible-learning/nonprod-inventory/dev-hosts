@@ -1,0 +1,11 @@
+[load_balancer_group]
+loadbalancer
+
+[web_server_group]
+web-server
+
+[database_group]
+sql-server
+
+[control_machine]
+clara-x1 ansible_connection=local
